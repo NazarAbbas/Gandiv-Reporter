@@ -1,0 +1,14 @@
+com.tundralabs.fluttertts.flutter_tts-jetified-annotation-experimental-1.1.0-0 /Users/nazarabbas/.gradle/caches/transforms-3/1437d136f5a011ae131b6288bdeac04a/transformed/jetified-annotation-experimental-1.1.0/res
+com.tundralabs.fluttertts.flutter_tts-core-1.8.0-1 /Users/nazarabbas/.gradle/caches/transforms-3/5f040ad83a3185b0f05a6b8ec8df8594/transformed/core-1.8.0/res
+com.tundralabs.fluttertts.flutter_tts-jetified-core-ktx-1.8.0-2 /Users/nazarabbas/.gradle/caches/transforms-3/918892fc1def030993dc0e6c3c4a2073/transformed/jetified-core-ktx-1.8.0/res
+com.tundralabs.fluttertts.flutter_tts-lifecycle-runtime-2.3.1-3 /Users/nazarabbas/.gradle/caches/transforms-3/9d97a6ceb67489e69f6a085fdec85d13/transformed/lifecycle-runtime-2.3.1/res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-java-1.0.0-beta04-4 /Users/nazarabbas/.gradle/caches/transforms-3/a7f90b5364a3beb9da68c4b70e884fb4/transformed/jetified-window-java-1.0.0-beta04/res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-1.0.0-beta04-5 /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/res
+com.tundralabs.fluttertts.flutter_tts-main-6 /Users/nazarabbas/.pub-cache/hosted/pub.dev/flutter_tts-3.8.3/android/src/main/res
+com.tundralabs.fluttertts.flutter_tts-profile-7 /Users/nazarabbas/.pub-cache/hosted/pub.dev/flutter_tts-3.8.3/android/src/profile/res
+com.tundralabs.fluttertts.flutter_tts-pngs-8 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/flutter_tts/generated/res/pngs/profile
+com.tundralabs.fluttertts.flutter_tts-resValues-9 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/flutter_tts/generated/res/resValues/profile
+com.tundralabs.fluttertts.flutter_tts-rs-10 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/flutter_tts/generated/res/rs/profile
+com.tundralabs.fluttertts.flutter_tts-mergeProfileResources-11 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/flutter_tts/intermediates/incremental/profile/mergeProfileResources/merged.dir
+com.tundralabs.fluttertts.flutter_tts-mergeProfileResources-12 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/flutter_tts/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+com.tundralabs.fluttertts.flutter_tts-merged_res-13 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/flutter_tts/intermediates/merged_res/profile

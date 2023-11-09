@@ -1,0 +1,12 @@
+app.rive.rive.rive_common-jetified-annotation-experimental-1.1.0-0 /Users/nazarabbas/.gradle/caches/transforms-3/1437d136f5a011ae131b6288bdeac04a/transformed/jetified-annotation-experimental-1.1.0/res
+app.rive.rive.rive_common-jetified-window-java-1.0.0-beta04-1 /Users/nazarabbas/.gradle/caches/transforms-3/a7f90b5364a3beb9da68c4b70e884fb4/transformed/jetified-window-java-1.0.0-beta04/res
+app.rive.rive.rive_common-core-1.6.0-2 /Users/nazarabbas/.gradle/caches/transforms-3/ab28a6e8d0c676a767dac799ba6e2187/transformed/core-1.6.0/res
+app.rive.rive.rive_common-jetified-window-1.0.0-beta04-3 /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/res
+app.rive.rive.rive_common-main-4 /Users/nazarabbas/.pub-cache/hosted/pub.dev/rive_common-0.1.0/android/src/main/res
+app.rive.rive.rive_common-profile-5 /Users/nazarabbas/.pub-cache/hosted/pub.dev/rive_common-0.1.0/android/src/profile/res
+app.rive.rive.rive_common-pngs-6 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/generated/res/pngs/profile
+app.rive.rive.rive_common-resValues-7 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/generated/res/resValues/profile
+app.rive.rive.rive_common-rs-8 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/generated/res/rs/profile
+app.rive.rive.rive_common-mergeProfileResources-9 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/intermediates/incremental/profile/mergeProfileResources/merged.dir
+app.rive.rive.rive_common-mergeProfileResources-10 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+app.rive.rive.rive_common-merged_res-11 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/intermediates/merged_res/profile

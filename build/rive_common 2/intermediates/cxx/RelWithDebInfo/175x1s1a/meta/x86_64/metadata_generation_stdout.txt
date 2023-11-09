@@ -1,0 +1,7 @@
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /Users/nazarabbas/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+-- Check for working C compiler: /Users/nazarabbas/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - broken
+-- Configuring incomplete, errors occurred!
+See also "/Users/nazarabbas/.pub-cache/hosted/pub.dev/rive_common-0.1.0/android/.cxx/RelWithDebInfo/175x1s1a/x86_64/CMakeFiles/CMakeOutput.log".
+See also "/Users/nazarabbas/.pub-cache/hosted/pub.dev/rive_common-0.1.0/android/.cxx/RelWithDebInfo/175x1s1a/x86_64/CMakeFiles/CMakeError.log".

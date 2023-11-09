@@ -1,0 +1,12 @@
+com.heqingbao.flutter.plugin.email_launcher-jetified-window-java-1.0.0-beta04-0 /Users/nazarabbas/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.heqingbao.flutter.plugin.email_launcher-core-1.6.0-1 /Users/nazarabbas/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.heqingbao.flutter.plugin.email_launcher-jetified-annotation-experimental-1.1.0-2 /Users/nazarabbas/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.heqingbao.flutter.plugin.email_launcher-jetified-window-1.0.0-beta04-3 /Users/nazarabbas/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.heqingbao.flutter.plugin.email_launcher-main-4 /Users/nazarabbas/.pub-cache/hosted/pub.dev/email_launcher-1.1.1/android/src/main/res
+com.heqingbao.flutter.plugin.email_launcher-profile-5 /Users/nazarabbas/.pub-cache/hosted/pub.dev/email_launcher-1.1.1/android/src/profile/res
+com.heqingbao.flutter.plugin.email_launcher-pngs-6 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/email_launcher/generated/res/pngs/profile
+com.heqingbao.flutter.plugin.email_launcher-resValues-7 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/email_launcher/generated/res/resValues/profile
+com.heqingbao.flutter.plugin.email_launcher-rs-8 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/email_launcher/generated/res/rs/profile
+com.heqingbao.flutter.plugin.email_launcher-mergeProfileResources-9 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/email_launcher/intermediates/incremental/profile/mergeProfileResources/merged.dir
+com.heqingbao.flutter.plugin.email_launcher-mergeProfileResources-10 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/email_launcher/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+com.heqingbao.flutter.plugin.email_launcher-merged_res-11 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/email_launcher/intermediates/merged_res/profile

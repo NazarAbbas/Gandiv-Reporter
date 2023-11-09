@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-0 /Users/nazarabbas/.gradle/caches/transforms-3/1437d136f5a011ae131b6288bdeac04a/transformed/jetified-annotation-experimental-1.1.0/res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-1 /Users/nazarabbas/.gradle/caches/transforms-3/a7f90b5364a3beb9da68c4b70e884fb4/transformed/jetified-window-java-1.0.0-beta04/res
+com.tekartik.sqflite-core-1.6.0-2 /Users/nazarabbas/.gradle/caches/transforms-3/ab28a6e8d0c676a767dac799ba6e2187/transformed/core-1.6.0/res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-3 /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/res
+com.tekartik.sqflite-main-4 /Users/nazarabbas/.pub-cache/hosted/pub.dev/sqflite-2.3.0/android/src/main/res
+com.tekartik.sqflite-profile-5 /Users/nazarabbas/.pub-cache/hosted/pub.dev/sqflite-2.3.0/android/src/profile/res
+com.tekartik.sqflite-pngs-6 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/sqflite/generated/res/pngs/profile
+com.tekartik.sqflite-resValues-7 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/sqflite/generated/res/resValues/profile
+com.tekartik.sqflite-rs-8 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/sqflite/generated/res/rs/profile
+com.tekartik.sqflite-mergeProfileResources-9 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/sqflite/intermediates/incremental/profile/mergeProfileResources/merged.dir
+com.tekartik.sqflite-mergeProfileResources-10 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/sqflite/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+com.tekartik.sqflite-merged_res-11 /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/sqflite/intermediates/merged_res/profile

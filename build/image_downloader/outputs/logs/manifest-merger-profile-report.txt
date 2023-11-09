@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml:1:1-49
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml:1:1-49
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml:1:1-49
+	package
+		ADDED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml:1:11-46
+		INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml:1:1-49
+uses-sdk
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/nazarabbas/.pub-cache/git/image_downloader-2f31d7cc59a984a54b7d9d12c5819387c9fb52c1/android/src/main/AndroidManifest.xml

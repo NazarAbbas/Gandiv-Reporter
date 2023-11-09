@@ -1,0 +1,12 @@
+io.flutter.plugins.share-jetified-window-java-1.0.0-beta04-0 /Users/nazarabbas/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.share-core-1.6.0-1 /Users/nazarabbas/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+io.flutter.plugins.share-jetified-annotation-experimental-1.1.0-2 /Users/nazarabbas/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.share-jetified-window-1.0.0-beta04-3 /Users/nazarabbas/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.share-main-4 /Users/nazarabbas/.pub-cache/hosted/pub.dev/share-2.0.4/android/src/main/res
+io.flutter.plugins.share-profile-5 /Users/nazarabbas/.pub-cache/hosted/pub.dev/share-2.0.4/android/src/profile/res
+io.flutter.plugins.share-pngs-6 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/share/generated/res/pngs/profile
+io.flutter.plugins.share-resValues-7 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/share/generated/res/resValues/profile
+io.flutter.plugins.share-rs-8 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/share/generated/res/rs/profile
+io.flutter.plugins.share-mergeProfileResources-9 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/share/intermediates/incremental/profile/mergeProfileResources/merged.dir
+io.flutter.plugins.share-mergeProfileResources-10 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/share/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+io.flutter.plugins.share-merged_res-11 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/share/intermediates/merged_res/profile

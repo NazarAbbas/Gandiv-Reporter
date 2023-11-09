@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-0 /Users/nazarabbas/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.ryanheise.audio_session-core-1.6.0-1 /Users/nazarabbas/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.ryanheise.audio_session-media-1.4.1-2 /Users/nazarabbas/.gradle/caches/transforms-3/5e776b2036c73d73db0c316ecc027c07/transformed/media-1.4.1/res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-3 /Users/nazarabbas/.gradle/caches/transforms-3/66ccda3ff999fc661ae5ded0b415dac0/transformed/jetified-media2-common-1.2.1/res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-4 /Users/nazarabbas/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-5 /Users/nazarabbas/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-6 /Users/nazarabbas/.gradle/caches/transforms-3/f921d35191e816e13bbe81a1a7adc2e8/transformed/jetified-media2-session-1.2.1/res
+com.ryanheise.audio_session-main-7 /Users/nazarabbas/.pub-cache/hosted/pub.dev/audio_session-0.1.16/android/src/main/res
+com.ryanheise.audio_session-profile-8 /Users/nazarabbas/.pub-cache/hosted/pub.dev/audio_session-0.1.16/android/src/profile/res
+com.ryanheise.audio_session-pngs-9 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/audio_session/generated/res/pngs/profile
+com.ryanheise.audio_session-resValues-10 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/audio_session/generated/res/resValues/profile
+com.ryanheise.audio_session-rs-11 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/audio_session/generated/res/rs/profile
+com.ryanheise.audio_session-mergeProfileResources-12 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/audio_session/intermediates/incremental/profile/mergeProfileResources/merged.dir
+com.ryanheise.audio_session-mergeProfileResources-13 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/audio_session/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+com.ryanheise.audio_session-merged_res-14 /Users/nazarabbas/Desktop/Gandiv-App/gandiv/build/audio_session/intermediates/merged_res/profile

@@ -1,0 +1,236 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.samachar.reporter.gandiv"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:3:5-66
+15-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:3:22-64
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:4:6-72
+16-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:4:23-69
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:5:6-81
+17-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:5:23-79
+18
+19    <queries>
+19-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:6:6-10:15
+20        <intent>
+20-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:7:5-9:14
+21            <action android:name="android.speech.RecognitionService" />
+21-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:8:9-67
+21-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:8:17-65
+22        </intent>
+23        <intent>
+23-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:25:9-27:18
+24            <action android:name="android.media.browse.MediaBrowserService" />
+24-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:26:13-79
+24-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:26:21-76
+25        </intent>
+26        <intent>
+26-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:28:9-30:18
+27            <action android:name="androidx.media2.session.MediaSessionService" />
+27-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:29:13-82
+27-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:29:21-79
+28        </intent>
+29        <intent>
+29-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:31:9-33:18
+30            <action android:name="androidx.media2.session.MediaLibraryService" />
+30-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:32:13-82
+30-->[androidx.media2:media2-session:1.2.1] /Users/nazarabbas/.gradle/caches/transforms-3/58ce6eb3c1433608c9c515c3eafec36e/transformed/jetified-media2-session-1.2.1/AndroidManifest.xml:32:21-79
+31        </intent>
+32    </queries>
+33    <queries>
+33-->/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/android/app/src/main/AndroidManifest.xml:6:6-10:15
+34        <intent>
+35            <action android:name="android.intent.action.TTS_SERVICE" />
+36        </intent>
+37    </queries>
+38
+39    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+39-->[:speech_to_text] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/speech_to_text/intermediates/merged_manifest/profile/AndroidManifest.xml:9:5-76
+39-->[:speech_to_text] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/speech_to_text/intermediates/merged_manifest/profile/AndroidManifest.xml:9:22-73
+40    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+40-->[com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/nazarabbas/.gradle/caches/transforms-3/b62a11f578d44b5df0e5a6f7b8385a9c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:24:5-79
+40-->[com.google.android.exoplayer:exoplayer-core:2.18.7] /Users/nazarabbas/.gradle/caches/transforms-3/b62a11f578d44b5df0e5a6f7b8385a9c/transformed/jetified-exoplayer-core-2.18.7/AndroidManifest.xml:24:22-76
+41
+42    <permission
+42-->[androidx.core:core:1.10.1] /Users/nazarabbas/.gradle/caches/transforms-3/6864946d09742125624c3d03b8d93831/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+43        android:name="com.samachar.reporter.gandiv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+43-->[androidx.core:core:1.10.1] /Users/nazarabbas/.gradle/caches/transforms-3/6864946d09742125624c3d03b8d93831/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+44        android:protectionLevel="signature" />
+44-->[androidx.core:core:1.10.1] /Users/nazarabbas/.gradle/caches/transforms-3/6864946d09742125624c3d03b8d93831/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+45
+46    <uses-permission android:name="com.samachar.reporter.gandiv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+46-->[androidx.core:core:1.10.1] /Users/nazarabbas/.gradle/caches/transforms-3/6864946d09742125624c3d03b8d93831/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+46-->[androidx.core:core:1.10.1] /Users/nazarabbas/.gradle/caches/transforms-3/6864946d09742125624c3d03b8d93831/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+47
+48    <application
+49        android:name="android.app.Application"
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.10.1] /Users/nazarabbas/.gradle/caches/transforms-3/6864946d09742125624c3d03b8d93831/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+51        android:debuggable="true"
+52        android:icon="@mipmap/launcher_icon"
+53        android:label="गांडीव रिपोर्टर"
+54        android:requestLegacyExternalStorage="true" >
+55        <activity
+56            android:name="com.samachar.reporter.gandiv.MainActivity"
+57            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+58            android:exported="true"
+59            android:hardwareAccelerated="true"
+60            android:launchMode="singleTop"
+61            android:theme="@style/LaunchTheme"
+62            android:windowSoftInputMode="adjustResize" >
+63
+64            <!--
+65                 Specifies an Android theme to apply to this Activity as soon as
+66                 the Android process has started. This theme is visible to the user
+67                 while the Flutter UI initializes. After that, this theme continues
+68                 to determine the Window background behind the Flutter UI.
+69            -->
+70            <meta-data
+71                android:name="io.flutter.embedding.android.NormalTheme"
+72                android:resource="@style/NormalTheme" />
+73
+74            <intent-filter>
+75                <action android:name="android.intent.action.MAIN" />
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+78            </intent-filter>
+79        </activity>
+80        <!--
+81             Don't delete the meta-data below.
+82             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+83        -->
+84        <meta-data
+85            android:name="flutterEmbedding"
+86            android:value="2" />
+87
+88        <activity
+89            android:name="com.yalantis.ucrop.UCropActivity"
+90            android:screenOrientation="portrait"
+91            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+92
+93        <provider
+93-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:10:9-18:20
+94            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+94-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:11:13-82
+95            android:authorities="com.samachar.reporter.gandiv.flutter.image_provider"
+95-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:12:13-74
+96            android:exported="false"
+96-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:13:13-37
+97            android:grantUriPermissions="true" >
+97-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:14:13-47
+98            <meta-data
+98-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:15:13-17:75
+99                android:name="android.support.FILE_PROVIDER_PATHS"
+99-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:16:17-67
+100                android:resource="@xml/flutter_image_picker_file_paths" />
+100-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:17:17-72
+101        </provider>
+102
+103        <activity
+103-->[:url_launcher_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/url_launcher_android/intermediates/merged_manifest/profile/AndroidManifest.xml:10:9-13:74
+104            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+104-->[:url_launcher_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/url_launcher_android/intermediates/merged_manifest/profile/AndroidManifest.xml:11:13-74
+105            android:exported="false"
+105-->[:url_launcher_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/url_launcher_android/intermediates/merged_manifest/profile/AndroidManifest.xml:12:13-37
+106            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+106-->[:url_launcher_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/url_launcher_android/intermediates/merged_manifest/profile/AndroidManifest.xml:13:13-71
+107
+108        <provider
+108-->[:share] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/share/intermediates/merged_manifest/profile/AndroidManifest.xml:10:9-18:20
+109            android:name="io.flutter.plugins.share.ShareFileProvider"
+109-->[:share] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/share/intermediates/merged_manifest/profile/AndroidManifest.xml:11:13-70
+110            android:authorities="com.samachar.reporter.gandiv.flutter.share_provider"
+110-->[:share] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/share/intermediates/merged_manifest/profile/AndroidManifest.xml:12:13-74
+111            android:exported="false"
+111-->[:share] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/share/intermediates/merged_manifest/profile/AndroidManifest.xml:13:13-37
+112            android:grantUriPermissions="true" >
+112-->[:share] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/share/intermediates/merged_manifest/profile/AndroidManifest.xml:14:13-47
+113            <meta-data
+113-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:15:13-17:75
+114                android:name="android.support.FILE_PROVIDER_PATHS"
+114-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:16:17-67
+115                android:resource="@xml/flutter_share_file_paths" />
+115-->[:image_picker_android] /Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:17:17-72
+116        </provider>
+117
+118        <uses-library
+118-->[androidx.window:window:1.0.0-beta04] /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+119            android:name="androidx.window.extensions"
+119-->[androidx.window:window:1.0.0-beta04] /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+120            android:required="false" />
+120-->[androidx.window:window:1.0.0-beta04] /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+121        <uses-library
+121-->[androidx.window:window:1.0.0-beta04] /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+122            android:name="androidx.window.sidecar"
+122-->[androidx.window:window:1.0.0-beta04] /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+123            android:required="false" />
+123-->[androidx.window:window:1.0.0-beta04] /Users/nazarabbas/.gradle/caches/transforms-3/e703d67c2d7e6c9296f7e63fbeb842b2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+124
+125        <provider
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+126            android:name="androidx.startup.InitializationProvider"
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:25:13-67
+127            android:authorities="com.samachar.reporter.gandiv.androidx-startup"
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:26:13-68
+128            android:exported="false" >
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:27:13-37
+129            <meta-data
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+130                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+131                android:value="androidx.startup" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+132        </provider>
+133
+134        <receiver
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+135            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+136            android:directBootAware="false"
+136-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+137            android:enabled="true"
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+138            android:exported="true"
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+139            android:permission="android.permission.DUMP" >
+139-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+141                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+144                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+145            </intent-filter>
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+147                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+147-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+147-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+148            </intent-filter>
+149            <intent-filter>
+149-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+150                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+150-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+150-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nazarabbas/.gradle/caches/transforms-3/8ddb94336abe2ab0be28f5ac90c4c473/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+151            </intent-filter>
+152        </receiver>
+153    </application>
+154
+155</manifest>

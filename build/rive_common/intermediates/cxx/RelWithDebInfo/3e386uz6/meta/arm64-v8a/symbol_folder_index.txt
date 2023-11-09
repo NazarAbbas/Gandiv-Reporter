@@ -1,0 +1,1 @@
+/Users/nazarabbas/Desktop/Gandiv-App-Reporter/gandiv-reporter/build/rive_common/intermediates/cxx/RelWithDebInfo/3e386uz6/obj/arm64-v8a
