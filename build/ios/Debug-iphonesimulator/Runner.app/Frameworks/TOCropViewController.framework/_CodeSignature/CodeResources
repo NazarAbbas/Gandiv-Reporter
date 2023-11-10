@@ -8,15 +8,6 @@
 		<data>
 		yWddmTW/tp1+C74AlpQo0Ts3+fw=
 		</data>
-		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VxY/Lu0kUMa4Dw9FryxLSegDAKU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -30,29 +21,11 @@
 		<data>
 		qRHWOlTF/71XQrCArv6MmJBaKCQ=
 		</data>
-		<key>TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9KdbZrTesV5Q3goWjT47ZNi4Ah8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			9KdbZrTesV5Q3goWjT47ZNi4Ah8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ca.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iS8YNUQF8hURkq4RIeYmTpfmltw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -66,29 +39,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tEF0ckSDjUIGE3y/Foty8T/omwo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			tEF0ckSDjUIGE3y/Foty8T/omwo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/da-DK.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xYOBVXX2ZEVsfhA06CU5RMhj9cc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -102,29 +57,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uIWAB6jgWd/rBUaaZTOOTvqjnvg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			uIWAB6jgWd/rBUaaZTOOTvqjnvg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/en.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VxY/Lu0kUMa4Dw9FryxLSegDAKU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -138,15 +75,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			i6heSnr/3BK2BzBGbDoAnsdAkCM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -156,25 +84,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Aciw6FK1RrwpKtmXlxt/av73MMw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Aciw6FK1RrwpKtmXlxt/av73MMw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/fa.lproj/TOCropViewControllerLocalizable 3.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -192,29 +102,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hLO/2lkTZNPuVT+0tigvvZKnTYU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			hLO/2lkTZNPuVT+0tigvvZKnTYU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/fr.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			x58vjyvUriL2N8lGdL4nn2fjT8A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -228,29 +120,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BZbs7bmjLwJNgzeQzQVDFtr41GI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			BZbs7bmjLwJNgzeQzQVDFtr41GI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/id.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6uxsz9U6fGxSTcjLOc8ILDETdVM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -264,29 +138,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IZkFMVHUu5vtuLmRk3EENQeD9EU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			IZkFMVHUu5vtuLmRk3EENQeD9EU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ja.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Iwh4b74rKw69c3ajJ6GBbESqJcY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -300,29 +156,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oEOISmZu9WGaR2DlX36uBwO4jA8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			oEOISmZu9WGaR2DlX36uBwO4jA8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ms.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pKSMomS5I4qsvpOzphOCNEZdlls=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -336,29 +174,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WEQ/kTs4B6rCq6KCEOb2bdDNiSE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			WEQ/kTs4B6rCq6KCEOb2bdDNiSE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/pl.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/4nhHU0B8LbVl0spRGHdH+ft28Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -372,25 +192,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PMFcvwmTAoQiqBPiOXTFlzBIkkA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PMFcvwmTAoQiqBPiOXTFlzBIkkA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/pt.lproj/TOCropViewControllerLocalizable 3.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -408,29 +210,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HwzpFshAR5HPP/7fNO6jOtUmoFU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			HwzpFshAR5HPP/7fNO6jOtUmoFU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ru.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hTF421mU8gwBrcc/+ttC5RHyqYM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -444,29 +228,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Rk+VpaOVCyarxcVWE8LCO4WGBLs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			Rk+VpaOVCyarxcVWE8LCO4WGBLs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/tr.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eTq0dNVVoOSEkqRyo6IQvBAYz1k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -480,15 +246,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OSx0CuhFv7QU/x1KHNFaAmdz2n8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -498,29 +255,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jV7lFbAOlsqp061XodkTOQjI3f8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			jV7lFbAOlsqp061XodkTOQjI3f8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/zh-Hant.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kjhSWwxYpPFlPxiOkf6nDVYwp9U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -537,15 +276,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GW2Z+4M0keHcxPYX+oHfEHYqUBK1EC8Rm3mJLWrTWME=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -562,29 +292,11 @@
 			0WeW+1jo9Djp9ieJUkGaE0kcvNOmUeD7vhAuotTH70I=
 			</data>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RjhF1v7VkZ5pHNWwq4q2Ces11/nj9HFsjtbVNvmrIVE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			RjhF1v7VkZ5pHNWwq4q2Ces11/nj9HFsjtbVNvmrIVE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ca.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SDoOwkND5MnxphW/CGFKrwJN9Cyn0uikyvrfJYlurUo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -598,29 +310,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZeoLY9ER0bWz1xLQnZ786tOnjblZhepo9J9WQ8INJjs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ZeoLY9ER0bWz1xLQnZ786tOnjblZhepo9J9WQ8INJjs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/da-DK.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eK+vebIPwDgHx6XlXWcOdabEnyBuBZNVBDX8XDBoTkY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -634,29 +328,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bI2DapbUPGYYvb180twTo+1N3KRD0haOQEiCCeOTmAs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			bI2DapbUPGYYvb180twTo+1N3KRD0haOQEiCCeOTmAs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/en.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GW2Z+4M0keHcxPYX+oHfEHYqUBK1EC8Rm3mJLWrTWME=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -670,15 +346,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WTSK+uSmaRM7UQRocaUzOvqF5V5/8YpyzYR36D0pym8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -688,25 +355,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qlXElNSV96/Bhfm2VhhHvKhy9Vyhm5ui5ssqoLi7e58=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qlXElNSV96/Bhfm2VhhHvKhy9Vyhm5ui5ssqoLi7e58=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/fa.lproj/TOCropViewControllerLocalizable 3.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -724,29 +373,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gwzYEHyto774wrEk5AeozvQ+/LSqh+7VlzmPfWEYXPM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			gwzYEHyto774wrEk5AeozvQ+/LSqh+7VlzmPfWEYXPM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/fr.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4jSflqNQBX+HCtxmQTmc6ww4+516Z5X5NpS5e0acF/w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -760,29 +391,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PINY8TGJjSuucf341WM1VYeDmxeW7mWhVLYxKgJqPQ0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			PINY8TGJjSuucf341WM1VYeDmxeW7mWhVLYxKgJqPQ0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/id.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/a7u1wffkoejir+Ph8ty7S3zSZ3Pah72F9x/O6DcDLs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -796,29 +409,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hRsxJneovqXThfZCIF5dgEwF8lhQ1UlvwElPsLgG7sI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			hRsxJneovqXThfZCIF5dgEwF8lhQ1UlvwElPsLgG7sI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ja.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZVvNCp0WDyjoB3PsKvxDnYX/3oZwWAkKXWhkN8fOjK0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -832,29 +427,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YPl6zLnXtKno3TNY/BIj0W6I9mlqZ7YhSOa/6v4QHVg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			YPl6zLnXtKno3TNY/BIj0W6I9mlqZ7YhSOa/6v4QHVg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ms.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wXzwrWRoQrN8I5PmLGsxXixSBxpedaYCiQXqY82uiQw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -868,29 +445,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J4uHCZGNypnCfNidppe9kHpgpIR5u3MVlDWME/Nd7hQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			J4uHCZGNypnCfNidppe9kHpgpIR5u3MVlDWME/Nd7hQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/pl.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YK8mEk8idwYRPjhO0j/IFOuhI7M6DIUsema/3e+kIUk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -904,25 +463,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JW83bBbOBexTFlLGZF7Kz/L4+2EFpKBmGkF8cNpOYyA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JW83bBbOBexTFlLGZF7Kz/L4+2EFpKBmGkF8cNpOYyA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/pt.lproj/TOCropViewControllerLocalizable 3.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -940,29 +481,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			D6fze7ikM8ZdRRPRcskPZRXuukhDAZPbO4LYylAdnq8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			D6fze7ikM8ZdRRPRcskPZRXuukhDAZPbO4LYylAdnq8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/ru.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kX2PTs0/gkxFuhKsZSdDQ8cQSdgmC7IO2RPEuR8qVLs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -976,29 +499,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1AVsDsZiHh+1A5AJYDS0Y7ejydIFr2Fk6fdW7JK7w5M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			1AVsDsZiHh+1A5AJYDS0Y7ejydIFr2Fk6fdW7JK7w5M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/tr.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ggavymadm0jrhdMFlgzBHlF6okjAULifx4rcj0zT+qo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1012,15 +517,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HBDho/CHxq167q0X+NDTRzncPFjtA30P0JRm9urBXAA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1030,29 +526,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sOWecZADc259Yep3XGbJcTbgmn2JXvVPkh7S6uaXt1Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			sOWecZADc259Yep3XGbJcTbgmn2JXvVPkh7S6uaXt1Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>TOCropViewControllerBundle.bundle/zh-Hant.lproj/TOCropViewControllerLocalizable 3.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			teEdEmvUad++KmbAGbmJ+lduOVy3BXAjeY1wkmP0LoE=
 			</data>
 			<key>optional</key>
 			<true/>
